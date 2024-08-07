@@ -22,8 +22,9 @@ Patronix is a patronage and donation platform built with Next.js, MongoDB, Mongo
 
 1. **Clone the Repository:**
    
-bash
-   git clone https://github.com/yourusername/patronix.git
+```
+   git clone https://github.com/{yourusername}/patronix.git
+```
 
 2. **Install Dependencies:**
  ```
